@@ -26,7 +26,7 @@
     .arrow{
         display: none;
     }
-    sectiom, .section-container{
+    section, .section-container{
         height: fit-content;
     }
     section{
