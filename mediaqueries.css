@@ -44,15 +44,9 @@
 
 
 @media screen and (max-width: 600px) {
-    /*
-
-     *{
-        width: 100%;
-        text-align: center;
-        margin: auto;
-    } 
+    
        
-    */
+    
     #contact,
     footer{
         height: 40vh;
@@ -105,6 +99,13 @@
      }
      .text-container{
         text-align: justify;
+     }
+     .about-pic{
+        width: 350px;
+    
+     }
+     .text{
+        
      }
 }
 
