@@ -87,7 +87,7 @@
         text-align: center;
      }
      .section_pic-container{
-        width: auto;
+        size: auto;
         height: 46vw;
         justify-content: center;
      }
@@ -99,13 +99,7 @@
      }
      .text-container{
         text-align: justify;
+        margin-top: 120px;
      }
-     .about-pic{
-        width: 350px;
-    
-     }
-     .text{
-        
-     }
-}
-
+  
+    }
