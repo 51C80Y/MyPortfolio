@@ -44,9 +44,7 @@
 
 
 @media screen and (max-width: 600px) {
-    
-       
-    
+
     #contact,
     footer{
         height: 40vh;
@@ -67,10 +65,10 @@
     .btn-container{
         flex-wrap: wrap;
     }
+
     .contact-info-container{
         margin: 0;
     }
-
     .contact-info-container p,
      .nav-links li a{
         font-size: 1rem;
@@ -81,7 +79,7 @@
      .logo{
         font-size: 1.5rem;
      }
-     .nav-links{
+     .nav-link{
         flex-direction: column;
         gap:0.5rem;
         text-align: center;
